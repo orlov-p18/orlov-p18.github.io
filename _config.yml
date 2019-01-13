@@ -1,1 +1,9 @@
-theme: jekyll-theme-minimal
+title: Портфолио Орлова Валентина
+email: orlovv@herzen.spb.ru
+baseurl: ""
+url: ""
+github_username:  xunto
+
+# Build settings
+markdown: kramdown
+theme: minima
